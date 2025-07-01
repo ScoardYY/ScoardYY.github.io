@@ -1,11 +1,15 @@
-- name: University of Washington 
+- name: Beihang University 
   description: >-
-    Ph. D in Computer Science, advised by <a href="https://smseitz.com">Steven M. Seitz</a> and
-    <a href="https://homes.cs.washington.edu/~ali/">Ali Farhadi</a>.<br />
-    Supported by Samsung Scholarship 2015-2020 ($50,000/year for 5 years)
-  dates: Fall 2015 - Spring 2022
+    Ph. D in  Control Science and Engineering, advised by <a href="https://scholar.google.com/citations?user=6UgtuZ8AAAAJ&hl=zh-CN">Xiang Yu</a> and
+    <a href="https://scholar.google.com/citations?hl=zh-CN&user=c0MaejIAAAAJ">Kexin Guo</a>.
+  dates: Fall 2022 - Spring 2026
+  
+- name: Beihang University 
+  description: >-
+    M.S. in Control Science and Engineering, advised by <a href="https://scholar.google.com/citations?user=IxO-SDwAAAAJ&hl=zh-CN/">Lei Guo</a>.
+  dates: Fall 2020 - Spring 2022
 
-- name: University of Illinois at Urbana-Champaign
+- name: Northwestern Polytechnical University
   description: >-
     B.S. in Computer Science, advised by <a href="https://dhoiem.cs.illinois.edu/">Derek Hoiem</a>.
-  dates: Fall 2009 - Spring 2013
+  dates: Fall 2016 - Spring 2020
