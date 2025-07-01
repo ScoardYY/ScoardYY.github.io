@@ -24,16 +24,15 @@ position: Research Scientist
 email: mwangbuaa@126.com
 description: |
   I am a Ph.D. student at the School of Automation Science and Electrical Engineering and Shenyuan Honors College, Beihang University, China.
-  I am supervised by Prof. [Lei Guo](https://ai.google/research/), Prof. [Xiang Yu], and Prof. [Kexin Guo]. 
+  I am supervised by Prof. [Lei Guo](https://ai.google/research/), Prof. [Xiang Yu](https://scholar.google.com/citations?user=6UgtuZ8AAAAJ&hl=zh-CN&oi=ao), and Prof. [Kexin Guo](https://scholar.google.com/citations?hl=zh-CN&user=c0MaejIAAAAJ). 
   Robots deployed in the real world inevitably face uncertainties caused by internal model mismatch and external unmeasured disturbances. 
-  The topic of my Ph.D. research is learning and predicting uncertainties for robotic control and planning.
-  My current research interests are primarily in aerial manipulator, intelligent control, and robot learing.
+  The topic of my Ph.D. research is intelligent control and dexterous operation of aerial manipulator.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://keunhong.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: KeunhongP
+url: "https://wangmeng.com" # the base hostname & protocol for your site, e.g. http://example.com
+ResearchGate_username: KeunhongP
 github_username: ScoardYY
 google_scholar: Lu7YFHsAAAAJ&hl=zh-CN
-ORCID: Lu7YFHsAAAAJ&hl=zh-CN
+ORCID: 0000-0002-3573-2514
 
 # Build settings
 theme: minima
