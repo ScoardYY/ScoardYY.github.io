@@ -18,12 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Keunhong Park
-name: Keunhong Park
+title: Meng Wang
+name: Meng Wang
 position: Research Scientist
-email: dp9jalxhq@mozmail.com
+email: mwangbuaa@126.com
 description: |
-  I am a researcher in 3D computer vision and generative AI. I am a founding member at [World Labs](https://www.worldlabs.ai/blog) where we are expanding the frontier of spatial intelligence.
+  I am a researcher in aerial manipulator, intelligent control, and motion planning. I am a founding member at [World Labs](https://www.worldlabs.ai/blog) where we are expanding the frontier of spatial intelligence.
   I was previously a research scientist at [Google](https://ai.google/research/) where I built technology to [generate 3D assets](https://research.google/blog/bringing-3d-shoppable-products-online-with-generative-ai/) for products on Google Search.
 
   I received my Ph.D from the [University of Washington](https://grail.cs.washington.edu/) in 2021 where I was advised by
