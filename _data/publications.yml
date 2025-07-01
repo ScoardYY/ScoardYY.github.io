@@ -1,0 +1,157 @@
+- id: illuminerf
+  title: "Capturing Moving object using onboard sensoring"
+  venue: Science Robotics, 2024
+  description: "This represents the fastest and most accurate vision-based grasping performance reported in the literature."
+  project_page: https://illuminerf.github.io
+  arxiv: 2406.06527
+  image: illuminerf_before.jpg
+  image_mouseover: illuminerf_after.mp4
+  authors:
+    - mengwang
+    - jindoujia
+    - sichengzhou
+    - kexinguo
+    - xiangyu
+    - leiguo
+
+- id: FeedbackNN
+  title: "Feedback favors the generalization of neural ODEs"
+  venue: International Conference on Learning Representations (ICLR), 2025
+  description: "We present feedback neural networks, showing that a feedback loop can flexibly correct the learned latent dynamics of neural ordinary differential equations (neural ODEs), leading to a prominent generalization improvement."
+  project_page: https://sites.google.com/view/feedbacknn
+  github: JIAjindou/Feedback-neural-network
+  image: feedbackNN_fig.png
+  arxiv: 2410.10253
+  link_web: https://openreview.net/forum?id=cmfyMV45XO
+  authors:
+    - jindoujia
+    - zihanyang
+    - mengwang
+    - kexinguo
+    - jianfeiyang
+    - xiangyu
+    - leilei
+  awards:
+    - "Oral Presentation"
+    
+- id: Millileter_TRO
+  title: "Millimeter-level pick and peg-in-hole task achieved by aerial manipulator"
+  venue: IEEE transcations on robotis (IEE TRO), 2024
+  description: "Building upon the philosophy of disturbance rejection, we propose a predictive optimization scheme that allows aerial manipulator to successfully execute millimeter-level flying pick and peg-in-hole task."
+  video: https://youtu.be/D7__4yyXnc8
+  link_web: https://ieeexplore.ieee.org/document/10339889
+  sm_web: chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://drive.usercontent.google.com/download?id=1zsbLYpyewxi7FakGNQsya3btc9Ovkqwo&authuser=0&acrobatPromotionSource=GoogleDriveListView
+  image: millimeter_tro.png
+  image_mouseover: tro_mini.mp4
+  authors:
+    - mengwang 
+    - zeshuaichen
+    - kexinguo
+    - xiangyu
+    - leiguo
+    - weiwang
+    
+- id: hypernerf
+  title: "Precise End-Effector Control for an Aerial Manipulator Under Composite Disturbances: Theory and Experiments"
+  venue: IEEE Transactions on Automation Science and Engineering (IEEE TASE), 2024
+  description: "In this work, a composite control scheme is constructed, which consists of the manipulator joint velocity planner 
+  and the dynamic controller. The idea is intuitive. The joint velocity is generated to counteract the fluctuation of the aerial platform. 
+  Furthermore, the dynamic controller is developed to accurately track the planned joint velocity in the presence of strong coupling and model 
+  uncertainties. The proposed scheme guarantees the stability of the close loop system, making our approach especially promising solution for aerial 
+  manipulation under composite disturbances."
+  project_page: "https://camp-nerf.github.io"
+  github: jonbarron/camp_zipnerf
+  arxiv: 2308.10902
+  image: camp_before.jpg
+  image_mouseover: camp_after.mp4
+  authors:
+    - mengwang
+    - shangkelyu
+    - qianyuanliu
+    - ziqiyang
+    - kexinguo
+    - xiangyu
+
+- id: hypernerf
+  title: "HyperNeRF: A Higher-Dimensional Representation for Topologically Varying Neural Radiance Fields"
+  venue: SIGGRAPH Asia, 2021
+  description: "By applying ideas from level set methods, we can represent topologically changing scenes with NeRFs."
+  project_page: "https://hypernerf.github.io"
+  github: google/hypernerf
+  arxiv: 2106.13228
+  image: hypernerf_before.jpg
+  image_mouseover: hypernerf_after.mp4
+  authors:
+    - keunhong
+    - utsinh
+    - hedman
+    - barron
+    - sofien
+    - dgo
+    - rmbrualla
+    - smseitz
+
+- id: fignerf
+  title: "FiG-NeRF: Figure Ground Neural Radiance Fields for 3D Object Category Modelling "
+  venue: 3DV, 2021
+  description: "Given a lot of images of an object category, you can train a NeRF to render them from novel views and interpolate between different instances."
+  project_page: "https://fig-nerf.github.io"
+  arxiv: 2104.08418
+  image: fignerf_before.jpg
+  image_mouseover: fignerf_after.mp4
+  authors:
+    - chrisxie
+    - keunhong
+    - rmbrualla
+    - mtbr
+
+- id: nerfies
+  title: "Nerfies: Deformable Neural Radiance Fields"
+  venue: ICCV, 2021
+  description: "Learning deformation fields with a NeRF let's you reconstruct non-rigid scenes with high fidelity."
+  project_page: "https://nerfies.github.io"
+  github: google/nerfies
+  arxiv: 2011.12948
+  image: nerfies_before.jpg
+  image_mouseover: nerfies_after.mp4
+  authors:
+    - keunhong
+    - utsinh
+    - barron
+    - sofien
+    - dgo
+    - smseitz
+    - rmbrualla
+  awards:
+    - "Oral Presentation"
+
+- id: latentfusion
+  title: "LatentFusion: End-to-End Differentiable Reconstruction and Rendering for Unseen Object Pose Estimation "
+  venue: CVPR, 2020
+  description: "By learning to predict geometry from images, you can do zero-shot pose estimation with a single network."
+  project_page: "https://latentfusion.github.io"
+  github: NVlabs/latentfusion
+  arxiv: 1912.00416
+  image: latentfusion_before.jpg
+  image_mouseover: latentfusion_after.mp4
+  authors:
+    - keunhong
+    - amousavian
+    - yux
+    - fox
+
+- id: photoshape
+  title: "PhotoShape: Photorealistic Materials for Large-Scale Shape Collections"
+  venue: SIGGRAPH Asia, 2018
+  description: "By pairing large collections of images, 3D models, and materials, you can create thousands of photorealistic 3D models fully automatically."
+  project_page: "https://photoshape.github.io"
+  github: keunhong/photoshape
+  arxiv: 1809.09761
+  image: photoshape.jpg
+  authors:
+    - keunhong
+    - krematas
+    - ali
+    - smseitz
+  awards:
+    - "Journal Cover"

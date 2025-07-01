@@ -1,0 +1,54 @@
+mengwang:
+  first_name: Meng
+  last_name: Wang
+  website: https://mengwang.com
+  is_me: true
+zeshuaichen:
+  first_name: Zeshuai
+  last_name: Chen
+  website: https://ricardomartinbrualla.com
+jindoujia:
+  first_name: Jindou 
+  last_name: Jia
+  website: https://smseitz.com
+sichengzhou:
+  first_name: Sicheng
+  last_name: Zhou
+  website: https://homes.cs.washington.edu/~ali/
+xiangyu:
+  first_name: Xiang
+  last_name: Yu
+  website: https://krematas.com
+kexinguo:
+  first_name: Kexin
+  last_name: Guo
+  website: https://jonbarron.info
+leiguo:
+  first_name: Lei
+  last_name: Guo
+  website: http://sofienbouaziz.com/
+weiwang:
+  first_name: Wei
+  last_name: Wang
+  website: https://utkarshsinha.com/
+shangkelyu:
+  first_name: Shangke
+  last_name: Lyu
+  website: https://www.danbgoldman.com/home/
+ziqiyang:
+  first_name: Ziqi
+  last_name: Yang
+  website: https://cs.gmu.edu/~amousavi/
+qianyuanliu:
+  first_name: Qianyuan
+  last_name: Liu
+  website: https://yuxng.github.io/
+zihanyang:
+  first_name: Zihan
+  last_name: Yang
+  website: https://homes.cs.washington.edu/~fox/
+jianfeiyang:
+  first_name: jianfei
+  last_name: yang
+  website: https://chrisdxie.github.io/
+
