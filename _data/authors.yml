@@ -1,50 +1,47 @@
-keunhong:
+mengwang:
   first_name: Meng
   last_name: Wang
-  website: https://keunhong.com
+  website: https://mengwang.com
   is_me: true
-rmbrualla:
-  first_name: Ricardo
-  last_name: Martin-Brualla
+zeshuaichen:
+  first_name: Zeshuai
+  last_name: Chen
   website: https://ricardomartinbrualla.com
-smseitz:
-  first_name: Steven 
-  middle_name: M.
-  last_name: Seitz
+jindoujia:
+  first_name: Jindou 
+  last_name: Jia
   website: https://smseitz.com
-ali:
-  first_name: Ali
-  last_name: Farhadi
+sichengzhou:
+  first_name: Sicheng
+  last_name: Zhou
   website: https://homes.cs.washington.edu/~ali/
-krematas:
-  first_name: Kostas
-  last_name: Rematas
+xiangyu:
+  first_name: Xiang
+  last_name: Yu
   website: https://krematas.com
-barron:
-  first_name: Jonathan
-  middle_name: T.
-  last_name: Barron
+kexinguo:
+  first_name: Kexin
+  last_name: Guo
   website: https://jonbarron.info
-sofien:
-  first_name: Sofien
-  last_name: Bouaziz
+leiguo:
+  first_name: Lei
+  last_name: Guo
   website: http://sofienbouaziz.com/
-utsinh:
-  first_name: Utkarsh
-  last_name: Sinha
+weiwang:
+  first_name: Wei
+  last_name: Wang
   website: https://utkarshsinha.com/
-dgo:
-  first_name: Dan
-  middle_name: B
-  last_name: Goldman
+shangkelyu:
+  first_name: Shangke
+  last_name: Lyu
   website: https://www.danbgoldman.com/home/
-amousavian:
-  first_name: Arsalan
-  last_name: Mousavian
+ziqiyang:
+  first_name: Ziqi
+  last_name: Yang
   website: https://cs.gmu.edu/~amousavi/
-yux:
-  first_name: Yu
-  last_name: Xiang
+qianyuanliu:
+  first_name: Qianyuan
+  last_name: Liu
   website: https://yuxng.github.io/
 fox:
   first_name: Dieter
