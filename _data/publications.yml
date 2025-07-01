@@ -41,8 +41,8 @@
   video: https://youtu.be/D7__4yyXnc8
   link_web: https://ieeexplore.ieee.org/document/10339889
   sm_web: chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://drive.usercontent.google.com/download?id=1zsbLYpyewxi7FakGNQsya3btc9Ovkqwo&authuser=0&acrobatPromotionSource=GoogleDriveListView
-  image: reconfusion_before.png
-  image_mouseover: reconfusion_after.mp4
+  image: millimeter_tro.png
+  image_mouseover: tro_mini.mp4
   authors:
     - mengwang 
     - zeshuaichen
@@ -71,8 +71,6 @@
     - ziqiyang
     - kexinguo
     - xiangyu
-  awards:
-    - "Journal Paper"
 
 - id: hypernerf
   title: "HyperNeRF: A Higher-Dimensional Representation for Topologically Varying Neural Radiance Fields"
