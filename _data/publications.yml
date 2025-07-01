@@ -4,8 +4,8 @@
   description: "This represents the fastest and most accurate vision-based grasping performance reported in the literature."
   project_page: https://illuminerf.github.io
   arxiv: 2406.06527
-  image: illuminerf_before.jpg
-  image_mouseover: illuminerf_after.mp4
+  image: millimeter_tro.png
+  image_mouseover: tro_mini.mp4
   authors:
     - mengwang
     - jindoujia
