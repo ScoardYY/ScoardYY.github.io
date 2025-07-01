@@ -23,19 +23,17 @@ name: Meng Wang
 position: Research Scientist
 email: mwangbuaa@126.com
 description: |
-  I am a researcher in aerial manipulator, intelligent control, and robot learing. I am a founding member at [World Labs](https://www.worldlabs.ai/blog) where we are expanding the frontier of spatial intelligence.
-  I was previously a research scientist at [Google](https://ai.google/research/) where I built technology to [generate 3D assets](https://research.google/blog/bringing-3d-shoppable-products-online-with-generative-ai/) for products on Google Search.
-  I received my Ph.D from the Beihang University in 2026 where I was advised by
-  [Ali Farhadi](https://homes.cs.washington.edu/~ali/) and
-  [Steve Seitz](https://homes.cs.washington.edu/~seitz/).
-
-  My current research interests are primarily in 3D generative AI and diffusion models.
+  I am a Ph.D. student at the School of Automation Science and Electrical Engineering and Shenyuan Honors College, Beihang University, China.
+  I am supervised by Prof. [Lei Guo](https://ai.google/research/), Prof. [Xiang Yu], and Prof. [Kexin Guo]. 
+  Robots deployed in the real world inevitably face uncertainties caused by internal model mismatch and external unmeasured disturbances. 
+  The topic of my Ph.D. research is learning and predicting uncertainties for robotic control and planning.
+  My current research interests are primarily in aerial manipulator, intelligent control, and robot learing.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://keunhong.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: KeunhongP
-github_username: keunhong
+github_username: ScoardYY
 google_scholar: Lu7YFHsAAAAJ&hl=zh-CN
-google_analytics: G-MFWSBLRKG0
+ORCID: Lu7YFHsAAAAJ&hl=zh-CN
 
 # Build settings
 theme: minima
